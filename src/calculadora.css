@@ -7,3 +7,6 @@ input[type=text] {
   margin-left: 6px;
   width: 96%;
 }
+.text-right {
+  text-align: right !important;
+}
